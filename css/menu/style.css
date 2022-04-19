@@ -3,7 +3,7 @@
 body {
 	color: #555;
 	background: #f2f2f2;
-	font: 11px/1.8 Tahoma, sans-serif;
+	font: 10px/1.8 Tahoma, sans-serif;
 }
 input, button, select, textarea {
 	font: 11px/15px Tahoma, sans-serif;
@@ -84,11 +84,11 @@ header h1 a:hover {
 }
 header h2 {
 	float: left;
-	font-family: Georgia, sans-serif;
+	font-family: Aerial, sans-serif;
 	font-style: italic;
 	font-size: 15px;
 	color: #999;
-	margin: 23px 0 0;
+	margin: 22px 0 0;
 }
 header #link {
 	position: absolute;
@@ -301,7 +301,7 @@ ul#menu-group li.current a {
 
 #edit-form {
 	display: none;
-	border: 1px solid #ccc;
+	border: 2px solid #ccc;
 	background: #fcfcfc;
 	border-top: none;
 	padding: 10px 0;
